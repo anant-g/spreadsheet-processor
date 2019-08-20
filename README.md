@@ -2,9 +2,9 @@ Overview
 ============
 This program takes an spreadsheet in the form of Input CSV and generates the computed output CSV.
 
-DependencyGraph algorith used --> import edu.princeton.cs.algorithms.Digraph
-Topological algorith used --> import edu.princeton.cs.algorithms.Topological
-Expression computation used --> javax.script.ScriptEngineManager
+1. DependencyGraph algorith used --> import edu.princeton.cs.algorithms.Digraph
+2. Topological algorith used --> import edu.princeton.cs.algorithms.Topological
+3. Expression computation used --> javax.script.ScriptEngineManager
 
 
 source-code 
@@ -25,7 +25,7 @@ IntegrationTestProcessingDriver.java
 Runnable Jar
 =======================
 build the artifact from maven pom file
-rename uber-spreadsheet-processor-0.0.1-SNAPSHOT.jar to spreadsheet.jar
+rename uber-spreadsheet-processor-0.0.1-SNAPSHOT.jar --> spreadsheet.jar
 
 Running the program
 ========================
