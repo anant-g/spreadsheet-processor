@@ -9,14 +9,8 @@ Expression computation used --> javax.script.ScriptEngineManager
 
 source-code 
 ========================
-unzip the spreadsheet-processor.zip 
-spreadsheet-processor
-	|
-	|
-	|___________src
-	|
-	|
-	|___________pom.xml
+spreadsheet-processor/src
+spreadsheet-processor/pom.xml
 
 
 Main program file
